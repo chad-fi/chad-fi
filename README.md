@@ -8,7 +8,7 @@ Some examples of my work in DeFi
 
 🔮 [Frax Finance Analysis](https://docs.google.com/document/d/187S66DjdtEf760o6FZE86F27bP0bMRc3/edit?usp=sharing&ouid=110869294818001235283&rtpof=true&sd=true)
 
-📫 [WATER Index Token Proposal](https://forum.giveth.io/t/water-a-new-paradigm-for-sustainable-liquidity/492) // [Deployment $500k+](https://gnosis-safe.io/app/gno:0xb5F50e42aD28fB4BFc25b6B4c5a34AaD30649FC0/transactions/history)
+📫 [WATER Index Token Proposal](https://forum.giveth.io/t/water-a-new-paradigm-for-sustainable-liquidity/492) // [Deployment $500k](https://gnosis-safe.io/app/gno:0xb5F50e42aD28fB4BFc25b6B4c5a34AaD30649FC0/transactions/history)
 
 😄 [Gnosis x Giveth Token Swap](https://forum.gnosis.io/t/gip-41-should-gnosisdao-partner-with-giveth-to-increased-sustainable-liquidity/4942) // [Deployment $1M](https://blockscout.com/xdai/mainnet/tx/0xb339ca83cddfbf7dc291bfe5b84acb107a28b8883937d11aae405c585246f7bc)
     
