@@ -1,6 +1,7 @@
 ### Hello friend 👋
 
-Some examples of my work in DeFi :)
+Some examples of my work in DeFi
+
 🌱 [Tokemak Bribe Model](https://docs.google.com/spreadsheets/d/1KlkVCGMezxip4xVzP1Yg8AcFm3bbBNF0/edit?usp=sharing&ouid=110869294818001235283&rtpof=true&sd=true)
 
 👯 [Dopex + Squeeth Hedge Evaluation](https://drive.google.com/file/d/1zcztCqVfkT-chVZphWXQprQn3prCrV5F/view?usp=sharing)
