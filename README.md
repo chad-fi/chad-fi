@@ -11,5 +11,6 @@ Some examples of my work in DeFi
 📫 [WATER Index Token Proposal](https://forum.giveth.io/t/water-a-new-paradigm-for-sustainable-liquidity/492)
 
 😄 [Gnosis x Giveth Token Swap Proposal](https://forum.gnosis.io/t/gip-41-should-gnosisdao-partner-with-giveth-to-increased-sustainable-liquidity/4942)
+    [Deployment Receipt](https://blockscout.com/xdai/mainnet/tx/0xb339ca83cddfbf7dc291bfe5b84acb107a28b8883937d11aae405c585246f7bc)
 
 ⚡ [My ZenHub Board for Giveth Research](https://github.com/Giveth/GIVeconomy/labels#workspaces/all-devs-61644589b92edf0016f6999c/board?labels=research&repos=410473836)
